@@ -5,7 +5,7 @@
 
 /**
  *
- * @author henry
+ * @author Anyona Zaddock
  */
 import java.util.Scanner;
 public class Calculator {
